@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/NELSONBELENO/challenge-ForoHub/raw/main/Badge-Spring.png" alt="Badge Spring" width="300"/>
+</p>
+
 # Foro Hub API
 
 ## 📝 Descripción General
